@@ -1,6 +1,6 @@
 ### Hi there, I'm Marcos Landi 👋
 
-- 📍 Originally from Porto Alegre, Brazil, and currently at Stuttgart, Germany
+- 📍 Originally from Porto Alegre, Brazil, and currently in Stuttgart, Germany
 - 🔭 I’m currently working on Research about Vehicle-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I) Communication @ Uni Stuttgart
 - 🌱 I’m currently learning React and dealing with Leaflets for the Visualization of a Vehicle Communication Simulation
 - 👯 I’m looking to collaborate on fun Twitch-Plays projects
